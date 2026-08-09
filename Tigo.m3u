@@ -7,3 +7,5 @@ http://stkip.ddns.me:2082/carlaiptv11/iroquitv/136948
 http://stkip.ddns.me:2082/carlaiptv11/iroquitv/136957
 #EXTINF:-1 ,TYC SPORTS LPF
 http://152.230.229.66:8001/play/a04h/index.m3u8
+#EXTINF:-1 ,L1MAX
+http://ziptv.env.pm/live/dsportsplus.m3u8
