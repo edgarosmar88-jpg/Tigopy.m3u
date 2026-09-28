@@ -15,3 +15,71 @@ http://181.209.105.115:2525/play/tntsports/index.m3u8
 http://somoseluno.blog/live/9mQxLW8jGj5s/GekDyup9gYLR/154301.ts
 #EXTINF:-1 , EVENTOS 2
 http://daleplaytv.vip/live/9C00D37FA5FF/D37FA5FF9C00/154301.m3u
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 1)
+https://emitiendoenvivo.com:443/lpf/1.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 1
+https://emitiendoenvivo.com:443/lpf/1.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 1
+https://emitiendoenvivo.com:443/lpf/1.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 1
+https://emitiendoenvivo.com:443/lpf/2.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 2)
+https://emitiendoenvivo.com:443/lpf/2.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 2)
+https://emitiendoenvivo.com:443/lpf/2.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 2)
+https://emitiendoenvivo.com:443/lpf/3.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 2
+https://emitiendoenvivo.com:443/lpf/3.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 2
+https://emitiendoenvivo.com:443/lpf/3.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 2
+https://emitiendoenvivo.com:443/lpf/4.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 3)
+https://emitiendoenvivo.com:443/lpf/4.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 3)
+https://emitiendoenvivo.com:443/lpf/4.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 3)
+https://emitiendoenvivo.com:443/lpf/5.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 3
+https://emitiendoenvivo.com:443/lpf/5.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 3
+https://emitiendoenvivo.com:443/lpf/5.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 3
+https://emitiendoenvivo.com:443/lpf/6.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 4)
+https://emitiendoenvivo.com:443/lpf/6.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 4)
+https://emitiendoenvivo.com:443/lpf/6.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 4)
+https://emitiendoenvivo.com:443/lpf/7.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 4
+https://emitiendoenvivo.com:443/lpf/7.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 4
+https://emitiendoenvivo.com:443/lpf/7.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 4
+https://emitiendoenvivo.com:443/lpf/8.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 5)
+https://emitiendoenvivo.com:443/lpf/8.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 5)
+https://emitiendoenvivo.com:443/lpf/8.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 5)
+https://emitiendoenvivo.com:443/lpf/9.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 5
+https://emitiendoenvivo.com:443/lpf/9.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 5
+https://emitiendoenvivo.com:443/lpf/9.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 5
+https://emitiendoenvivo.com:443/lpf/10.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 6)
+https://emitiendoenvivo.com:443/lpf/10.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 6)
+https://emitiendoenvivo.com:443/lpf/10.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",(PLAY 6)
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 6
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 6
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 6
+https://emitiendoenvivo.com:443/lpf/12.m3u8
