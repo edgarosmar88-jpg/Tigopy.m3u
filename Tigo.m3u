@@ -83,3 +83,11 @@ https://emitiendoenvivo.com:443/lpf/11.m3u8
 https://emitiendoenvivo.com:443/lpf/11.m3u8
 #EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="",PLAY 6
 https://emitiendoenvivo.com:443/lpf/12.m3u8
+#EXTINF:-1 tvg-name="EVENTO 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",EVENTO 01
+http://daleplaytv.vip:80/live/victor62M/654321B/154298.ts
+#EXTINF:-1 tvg-name="Evento 02." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 02.
+http://daleplaytv.vip:80/live/victor62M/654321B/154299.ts
+#EXTINF:-1 tvg-name="Evento 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 03
+http://daleplaytv.vip:80/live/victor62M/654321B/154300.ts
+#EXTINF:-1 tvg-name="Evento 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 04
+http://daleplaytv.vip:80/live/victor62M/654321B/154301.ts
